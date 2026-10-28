@@ -5,13 +5,13 @@
 "%@ %@ is currently the newest version available.\n(You are currently running version %@.)" = "%1$@ %2$@は現在入手できる最新バージョンです。\n（現在使用中のバージョンは%3$@です。）";
 
 /* Description text for SUUpdateAlert when the critical update is downloadable. */
-"%@ %@ is now available—you have %@. This is an important update; would you like to download it now?" = "%1$@ %2$@が入手できます（使用中のバージョンは%3$@です）。これは重要なアップデートです。今すぐダウンロードしますか?";
+"%@ %@ is now available—you have %@. This is an important update; would you like to download it now?" = "%1$@ %2$@ が利用可能です（現在使用中のバージョン: %3$@）。これは重要なアップデートです。今すぐダウンロードしますか?";
 
 /* Description text for SUUpdateAlert when the update is downloadable. */
-"%@ %@ is now available—you have %@. Would you like to download it now?" = "%1$@ %2$@が入手できます（使用中のバージョンは%3$@です）。今すぐダウンロードしますか?";
+"%@ %@ is now available—you have %@. Would you like to download it now?" = "%1$@ %2$@ が利用可能です（現在使用中のバージョン: %3$@）。今すぐダウンロードしますか?";
 
 /* Description text for SUUpdateAlert when the update informational with no download. */
-"%@ %@ is now available—you have %@. Would you like to learn more about this update on the web?" = "%1$@ %2$@が入手できます（使用中のバージョンは%3$@です）。このアップデートの詳しい情報をWebで確認しますか?";
+"%@ %@ is now available—you have %@. Would you like to learn more about this update on the web?" = "%1$@ %2$@ が利用可能です（現在使用中のバージョン: %3$@）。このアップデートの詳しい情報をWebで確認しますか?";
 
 /* The download progress in a unit of bytes, e.g. 100 KB */
 "%@ downloaded" = "%@ダウンロード済み";
@@ -44,10 +44,10 @@
 "%1$@ can’t be updated because it was opened from a read-only or a temporary location." = "%1$@は読み出し専用または一時的な場所で開かれているためアップデートできません。";
 
 /* No comment provided by engineer. */
-"A new version of %@ is available!" = "新しいバージョンの%@が入手できます!";
+"A new version of %@ is available!" = "%@の新バージョンが利用可能です!";
 
 /* No comment provided by engineer. */
-"A new version of %@ is ready to install!" = "新しいバージョンの%@が今すぐインストールできます!";
+"A new version of %@ is ready to install!" = "%@ の新バージョンを今すぐインストールできます!";
 
 /* No comment provided by engineer. */
 "An error occurred in retrieving update information. Please try again later." = "アップデート情報の取得中にエラーが発生しました。あとでやり直してください。";
